@@ -23,5 +23,7 @@ Run the following command for training and inference. You can specify additional
 ```bash
 python run.py
 ```
+## More Details
+Please refer to [ADer](https://github.com/zhangzjn/ADer) 
 ## Acknowledgements
 We would like to express our gratitude to the outstanding works of [MambaAD](https://github.com/lewandofskee/MambaAD) and [ADer](https://github.com/zhangzjn/ADer), among others, for their significant contributions and support to our project.
